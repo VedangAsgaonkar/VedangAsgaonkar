@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VedangAsgaonkar
+- 👋 Hi, I’m Vedang Asgaonkar
 - 👀 I’m interested in computer science, mathematics and physics
-- 🌱 I’m currently learning computer science at IIT Bombay
-- 💞️ I’m looking to collaborate on AI, graphics and quantum computing projects
+- 🌱 I’m currently studying computer science at IIT Bombay
+- 💞️ I’m looking to collaborate on AI, graphics, game engine and quantum computing projects
 - 📫 How to reach me : drop a mail at vedanga2015@gmail.com
 
 <!---
