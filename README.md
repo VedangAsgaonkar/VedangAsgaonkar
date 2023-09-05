@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Vedang Asgaonkar
 - 👀 I’m interested in computer science and mathematics
 - 🌱 I’m currently studying computer science at IIT Bombay
-- 💞️ I’m looking to collaborate on AI, systems and quantum computing projects
+- 💞️ I’m looking to collaborate on AI and systems projects
 
-![VedangAsgaonkar's github stats](https://github-readme-stats.vercel.app/api?username=VedangAsgaonkar&show_icons=true&theme=tokyonight)
+<!---![VedangAsgaonkar's github stats](https://github-readme-stats.vercel.app/api?username=VedangAsgaonkar&show_icons=true&theme=tokyonight)
 <br></br>
+--->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedangAsgaonkar&langs_count=8&theme=tokyonight) -->
 <!---
